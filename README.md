@@ -1,5 +1,5 @@
 # markdown-practice
-### 🍃Hi ,I'm Destiny
+### 🍃Hi ,I'm Destiny 
 ## About Me 
 I'm a beginner developer currently learning JavaScript and the fundamentals of web development 
 ## 🕸️ Current goals 
